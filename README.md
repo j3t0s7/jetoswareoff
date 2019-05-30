@@ -28,5 +28,5 @@ JetosWare is an internal multihack for Counter-Strike: Global Offensive. Current
 - Enable
 - Radius
 - Filter
-# JSON config
-# ZGUI menu
+- JSON config
+- ZGUI menu
