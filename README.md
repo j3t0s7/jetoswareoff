@@ -33,3 +33,4 @@ JetosWare is an internal multihack for Counter-Strike: Global Offensive. Current
 
 # Link
 zxvnme for his amazing GUI framework - zgui. *https://github.com/zxvnme/zgui
+explit source framework. *https://github.com/danielkrupinski/Explit
